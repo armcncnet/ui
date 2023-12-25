@@ -1,0 +1,6 @@
+.idea
+.DS*
+.git
+.vscode
+yarn.lock
+node_modules
