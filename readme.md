@@ -8,5 +8,11 @@
 ## Install
 
 ```shell
+npm install armcnc
+```
+
+OR
+
+```shell
 yarn add armcnc
 ```
